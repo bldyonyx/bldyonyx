@@ -12,4 +12,4 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 HTML · CSS · JavaScript
 
 ### projects
-♡ Colorly ⸝⸝ a cute color palette generator
+♡ [Colorly](https://github.com/bldyonvx/Colorly) ⸝⸝ a cute color palette generator
