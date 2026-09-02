@@ -11,7 +11,8 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 
 <img src="https://cdn.simpleicons.org/html5/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/css/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.simpleicons.org/javascript/A99BB5" width="34">
+<img src="https://cdn.simpleicons.org/javascript/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/vite/A99BB5" width="34">
 
 ### projects
 ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ a cute color palette generator
