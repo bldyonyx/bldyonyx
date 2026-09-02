@@ -7,6 +7,8 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 ୨୧ interested in frontend & ui design  
 
 ### currently using
+<img align="right" src="bunnyy.gif" width="180">
+
 HTML · CSS · JavaScript
 
 ### projects
