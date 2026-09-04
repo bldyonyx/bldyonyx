@@ -16,5 +16,10 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 <img src="https://cdn.simpleicons.org/vite/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/figma/A99BB5" width="34">
 
+### currently working on
+
+♡ Taskly ⸝⸝ task management app  
+♡ Book Tracker ⸝⸝ personal reading tracker
+
 ### mini projects
 ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ a cute color palette generator
