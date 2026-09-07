@@ -18,7 +18,7 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 
 ### currently working on
 
-♡ [Taskly](https://github.com/bldyonyx/Taskly.git) ⸝⸝ task management app ➜ paused  
+♡ [Taskly](https://github.com/bldyonyx/Taskly.git) ⸝⸝ task management app ➜ in progress 
 ♡ Book Tracker ⸝⸝ personal reading tracker ➜ in progress
 
 ### mini projects
