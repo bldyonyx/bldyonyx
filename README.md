@@ -19,7 +19,7 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 ### currently working on
 
 ♡ [Taskly](https://github.com/bldyonyx/Taskly.git) ⸝⸝ task management app ➜ in progress   
-♡ Book Tracker ⸝⸝ personal reading tracker ➜ in progress
+♡ Book Tracker ⸝⸝ personal reading tracker ➜ brainstorming
 
 ### mini projects
 ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ a cute color palette generator ➜ done
