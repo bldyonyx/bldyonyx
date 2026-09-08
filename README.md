@@ -5,6 +5,7 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 ୨୧ currently learning javascript  
 ୨୧ building cute little web projects  
 ୨୧ interested in frontend & ui design  
+୨୧ french ⸝ english
 
 ### currently using
 <img align="right" src="bunnyy.gif" width="180">
