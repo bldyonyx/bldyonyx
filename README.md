@@ -21,7 +21,7 @@ learning how to dev my own stuff (๑-﹏-๑) ;;
 ### currently working on
 
 ♡ [Taskly](https://github.com/bldyonyx/Taskly.git) ⸝⸝ task management app ➜ in progress  
-♡ Portfolio ⸝⸝ personal developer portfolio ➜ in progress  
+♡ [Portfolio](https://github.com/bldyonyx/Portfolio) ⸝⸝ personal developer portfolio ➜ in progress  
 ♡ Book Tracker ⸝⸝ personal reading tracker ➜ brainstorming
 
 ### mini projects
