@@ -27,7 +27,7 @@ learning by building little things that feel like my own (˶ᵔ ᵕ ᵔ˶)
 `DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ small color palette generator   
 
 `WIP` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)** ⸝⸝ task management app  
-`WIP` ♡ **[Book Tracker](https://github.com/bldyonyx/BookTracker)** ⸝⸝ personal reading tracker  
+`WIP` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)** ⸝⸝ personal reading tracker  
 `WIP` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)** ⸝⸝ typing speed test for text & code  
 
 
