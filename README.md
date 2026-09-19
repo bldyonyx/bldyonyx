@@ -26,9 +26,9 @@ learning by building little things that feel like my own (˶ᵔ ᵕ ᵔ˶)
 `LIVE` ♡ **[Portfolio](https://github.com/bldyonyx/Portfolio)** ⸝⸝ my little corner of the internet  
 `DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ small color palette generator   
 
-`WIP` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)** ⸝⸝ task management app  
+`PAUSED` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)** ⸝⸝ task management app  
 `WIP` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)** ⸝⸝ personal reading tracker  
-`WIP` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)** ⸝⸝ typing speed test for text & code  
+`PAUSED` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)** ⸝⸝ typing speed test for text & code  
 
 
 ---
