@@ -19,17 +19,17 @@ learning by building little things that feel like my own (˶ᵔ ᵕ ᵔ˶)
 <img src="https://cdn.simpleicons.org/react/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/vite/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/firebase/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.simpleicons.org/git/A99BB5" width="34">&nbsp;&nbsp;&nbsp;
 <img src="https://cdn.simpleicons.org/figma/A99BB5" width="34">
 
 ### my projects
 
 `LIVE` ♡ **[Portfolio](https://github.com/bldyonyx/Portfolio)** ⸝⸝ my little corner of the internet  
-`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ small color palette generator   
+`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)** ⸝⸝ small color palette generator  
 
 `PAUSED` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)** ⸝⸝ task management app  
 `WIP` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)** ⸝⸝ personal reading tracker  
 `PAUSED` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)** ⸝⸝ typing speed test for text & code  
-
 
 ---
 
