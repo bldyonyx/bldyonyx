@@ -5,10 +5,10 @@ learning by building little things that feel like my own (˶ᵔ ᵕ ᵔ˶)
 
 ୨୧ building with javascript & react  
 ୨୧ interested in frontend, ui design & creative coding  
-୨୧ learning through personal projects  
+୨୧ experimenting with interfaces, interactions & little ideas  
 ୨୧ i speak french ⸝ english ⸝ learning german
 
-### currently using
+### my toolkit
 
 <img align="right" src="bunnyy.gif" width="180">
 
