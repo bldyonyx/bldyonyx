@@ -72,8 +72,6 @@ learning by building little things that feel like my own ミ・へ・ミ
 &nbsp;&nbsp;·&nbsp;&nbsp;
 `WIP` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)**
 
-<br/><br/>
-
 </div>
 
 <div align="center">
