@@ -32,11 +32,11 @@ learning by building little things that feel like my own ミ・へ・ミ
 ୨୧ experimenting with interfaces, interactions & little ideas  
 ୨୧ i speak french ⸝ english ⸝ learning german
 
-<br/><br/>
+<br/>
 
 <sub>・・・    ⁺    ﹒    ⁺    ・・・</sub>
 
-<br/><br/>
+<br/>
 
 ### my toolkit
 
@@ -62,28 +62,15 @@ learning by building little things that feel like my own ミ・へ・ミ
 
 <br/>
 
-`LIVE` ♡ **[Portfolio](https://github.com/bldyonyx/Portfolio)**  
-<sub>my little corner of the internet</sub>
-
-<br/>
-
-`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)**  
-<sub>small color palette generator</sub>
-
-<br/>
-
-`FINALIZING` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)**  
-<sub>personal reading tracker built with React & Firebase</sub>
-
-<br/>
-
-`WIP` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)**  
-<sub>task management app</sub>
-
-<br/>
-
-`WIP` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)**  
-<sub>typing speed test for text & code</sub>
+`LIVE` ♡ **[Portfolio](https://github.com/bldyonyx/Portfolio)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`FINALIZING` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`WIP` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)**
+&nbsp;&nbsp;·&nbsp;&nbsp;
+`WIP` ♡ **[Kiflo](https://github.com/bldyonyx/Kiflo)**
 
 <br/><br/>
 
