@@ -64,9 +64,9 @@ learning by building little things that feel like my own ミ・へ・ミ
 
 `LIVE` ♡ **[Portfolio](https://github.com/bldyonyx/Portfolio)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)**
+`DONE` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
-`FINALIZING` ♡ **[Dear Pages](https://github.com/bldyonyx/BookTracker)**
+`DONE` ♡ **[Colorly](https://github.com/bldyonyx/Colorly)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
 `WIP` ♡ **[Taskly](https://github.com/bldyonyx/Taskly)**
 &nbsp;&nbsp;·&nbsp;&nbsp;
